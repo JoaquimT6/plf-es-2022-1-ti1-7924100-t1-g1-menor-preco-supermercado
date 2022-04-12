@@ -1,6 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7612805&assignment_repo_type=AssignmentRepo)
 # Nome do projeto
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+O ----- tem como finalidade auxiliar todas as pessoas que procuram o melhor preço quando realizam compras no supermercado. Como existe uma grande variedade de preços inclusive em supermercados da mesma franquia, o ----- ajuda a escolher o local com menor preço sem a nescecidade de sair de casa e 
 
 ## Alunos integrantes da equipe
 
