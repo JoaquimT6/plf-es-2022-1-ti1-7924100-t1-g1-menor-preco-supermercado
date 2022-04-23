@@ -1,11 +1,11 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Preçola
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Engenharia de Software
 
 ## Participantes
 
