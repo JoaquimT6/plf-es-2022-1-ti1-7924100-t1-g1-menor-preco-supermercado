@@ -62,7 +62,7 @@ Engenharia de Software
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Os gastos mensais com supermercados são muito altos. Isso é algo que afeta principalmente pessoas de classe baixa/média e acontece por não ser fácil de saber qual produto é mais barato e onde aquele produto é mais barato.
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
