@@ -9,7 +9,7 @@ Engenharia de Software
 
 ## Participantes
 
-- Guilherme Martini Brina Ferreirab
+- Guilherme Martini Brina Ferreira
 - Gustavo Henrique de Lima e Silva
 - João Paulo Goulart Machado
 - Joaquim de Moura Thomaz Neto
@@ -17,11 +17,6 @@ Engenharia de Software
 - Matheus Pereira
 - Pedro Henrique de Vasconcellos Franco
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
 
 # Estrutura do Documento
 
