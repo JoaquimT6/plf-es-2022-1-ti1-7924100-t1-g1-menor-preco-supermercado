@@ -9,7 +9,13 @@
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+- Guilherme Martini Brina Ferreira
+- Gustavo Henrique de Lima e Silva
+- João Paulo Goulart Machado
+- Joaquim de Moura Thomaz Neto
+- Lucas Nogueira Mazzieiro de Carvalho
+- Matheus Pereira
+- Pedro Henrique de Vasconcellos Franco
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
